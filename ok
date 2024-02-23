@@ -1,0 +1,21 @@
+[1mdiff --git a/fundamentos/README.md b/fundamentos/README.md[m
+[1mindex b248610..6ad4a2d 100644[m
+[1m--- a/fundamentos/README.md[m
+[1m+++ b/fundamentos/README.md[m
+[36m@@ -7,4 +7,5 @@[m [mCurrently, two official plugins are available:[m
+ - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh[m
+ - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh[m
+ [m
+[31m-#PROJETO CRIADO PARA OS FUNDAMENTOS DO CURSO DA FORMAÇÃO EM FRONT-END[m
+\ No newline at end of file[m
+[32m+[m[32m#PROJETO CRIADO PARA OS FUNDAMENTOS DO CURSO DA FORMAÇÃO EM FRONT-END[m
+[32m+[m[32m#ATUALIZANDO ARQUIVO[m
+\ No newline at end of file[m
+[1mdiff --git a/fundamentos/adicional.md b/fundamentos/adicional.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f8e7758[m
+[1m--- /dev/null[m
+[1m+++ b/fundamentos/adicional.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m#Texto adicional para testar o curso de git[m
+\ No newline at end of file[m
